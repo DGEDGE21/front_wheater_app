@@ -25,7 +25,7 @@ const Exchange= ({ data }) => {
    }
  
      ).catch(e=>{
-      message.error("Sem sucesso")
+      message.error("Sem sucessos")
     
   })
 
