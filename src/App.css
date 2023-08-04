@@ -2,3 +2,9 @@
   max-width: 1080px;
   margin: 20px auto;
 }
+.topo_todos{
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 2%;
+  justify-content: space-between;
+}

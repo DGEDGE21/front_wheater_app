@@ -1,0 +1,139 @@
+.form_registro_empresa{
+    background-color: aqua;
+    width: 100%;
+}
+.formulario_123{
+    margin-top: 1%;
+    width: 80%;
+    margin-left: 10%;
+}
+.avancar2{
+    margin-top: 0%;
+    width: 10%;
+  background-color: #1677ff;
+  color: #FFFFFF;
+     margin-left: 90%;
+ }
+ .avanca1{
+    margin-top: 0%;
+    width: 10%;
+  background-color: #e6f4ff;
+  color: #1677ff;
+  
+ }
+ .Registado_com_sucesso{
+   margin-bottom: 3.75%;
+ }
+ .avancarR{
+    display: flex;
+    flex-direction: row;
+    margin-top: 5%;
+ 
+    justify-content: space-between;
+    width: 100%;
+    
+ }
+ .passos_l{
+    margin-top: 2%;
+    width: 50%;
+    margin-left: 25%;
+ }
+ .dfa{
+    margin-bottom: 17%;
+ }
+ .asq1{
+   margin-top: 2%;
+ }
+ .provinicas_{
+   margin-bottom: 12%;
+ }
+ .formulario_123{
+   margin-bottom: 2.6%;
+ }
+ .resumo_items{
+   margin-top: 1%;
+ }
+ .resumobb{
+   margin-bottom: -2%;
+ }
+
+ .dados_s{
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+  margin-top: 2%;
+  margin-left: 30%;
+  margin-bottom: 2%;
+  border-radius: 30px;
+  background-color: #FFF;
+  box-shadow: 0px 4px 4px 0px #00000040;
+
+  
+}
+.dados label{
+  margin-top: 4%;
+  text-align: left;
+  width: 80%;
+  margin-left: 10%;
+ 
+  font-family: Inter;
+font-size: 18px;
+font-weight: 200;
+line-height: 25px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+
+
+
+.homeclass{
+  background-color: #F0F0F3;
+  background-repeat: no-repeat;
+  background-size: contain;   
+  background-position: -07%;
+}
+.inputs{
+  width: 60%;
+  margin-left: 10%;
+}
+.inputs_s{
+  margin-left: 10%;
+ 
+}
+.hsa{
+  background-color: red;
+  width: 100%;
+  margin-top: 10%;
+}
+.a{
+  display: flex;
+  flex-direction: column;
+  margin-top: 5%;
+  
+}
+.a label{
+  margin-top: 4%;
+  text-align: left;
+
+  width: 80%;
+  margin-left: 10%;
+ 
+  font-family: Inter;
+font-size: 18px;
+font-weight: 400;
+line-height: 27px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.ab{
+  
+  justify-content: space-between;
+}
+.button{
+  margin-left: 40%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
